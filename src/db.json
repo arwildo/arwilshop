@@ -9,25 +9,25 @@
       "tokopedia" : "https://tokopedia.link/1kFPkzRGYwb"
     },
     {
-      "title" : "Portfolio",
-      "img" : "arwildo.png",
-      "desc" : "Portfolio website to showcase personal projects. Driven by a clean UI theme, design with Figma built with React.",
-      "shopee" : "https://github.com/arwildo/akunter",
-      "tokopedia" : "https://arwildo.com/akunter"
+      "title" : "Headphone Wireless",
+      "img" : "headphone-wireless.png",
+      "desc" : "Headphone bluetooth wireless murah dengan suara kualitas tinggi yang bassnya nendang.",
+      "shopee" : "https://shope.ee/6pSdcgCnGT",
+      "tokopedia" : "https://tokopedia.link/rPyzEKqJYwb"
     },
     {
-      "title" : "SpaceV",
-      "img" : "space-view.png",
-      "desc" : "React app to explore space objects like the moon, mars, and the night sky through an interactive map view. Built with NASA and Google APIs wrapped around responsive UI.",
-      "shopee" : "https://github.com/arwildo/akunter",
-      "tokopedia" : "https://arwildo.com/akunter"
+      "title" : "Vaseline Lip Balm",
+      "img" : "vaseline-lip-balm.png",
+      "desc" : "Lip Balm Vaseline Asli (ORI), bibir menjadi lembab dan memberikan warna pink secara alami.",
+      "shopee" : "https://shope.ee/2Ago6HFYTQ",
+      "tokopedia" : "https://tokopedia.link/PsFKnA5JYwb"
     },
     {
-      "title" : "Textul",
-      "img" : "textul.png",
-      "desc" : "Web App for text manipulation design with Figma builds with React. Convert text to uppercase, convert text to lowercase, capitalize all the first letters on every word, reverse the text from back to front and etc.",
-      "shopee" : "https://github.com/arwildo/akunter",
-      "tokopedia" : "https://arwildo.com/akunter"
+      "title" : "Kalung Titanium",
+      "img" : "kalung-titanium.png",
+      "desc" : "Kalung titanium anti karat dan anti pudar seumur hidup. Harga murah dan tampilan trendy.",
+      "shopee" : "https://shope.ee/8UarfDPC2i",
+      "tokopedia" : "https://tokopedia.link/xZJdaSlLYwb"
     }
   ]
 }
