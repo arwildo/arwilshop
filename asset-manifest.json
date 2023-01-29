@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3fd67568.chunk.css",
-    "main.js": "/static/js/main.2c9d7006.chunk.js",
-    "main.js.map": "/static/js/main.2c9d7006.chunk.js.map",
+    "main.css": "/static/css/main.bdfa43d4.chunk.css",
+    "main.js": "/static/js/main.667d7e34.chunk.js",
+    "main.js.map": "/static/js/main.667d7e34.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a1b4ee6e.js",
     "runtime-main.js.map": "/static/js/runtime-main.a1b4ee6e.js.map",
-    "static/js/2.0f476c3e.chunk.js": "/static/js/2.0f476c3e.chunk.js",
-    "static/js/2.0f476c3e.chunk.js.map": "/static/js/2.0f476c3e.chunk.js.map",
+    "static/js/2.2072648e.chunk.js": "/static/js/2.2072648e.chunk.js",
+    "static/js/2.2072648e.chunk.js.map": "/static/js/2.2072648e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.acd1142a9b9fb278f24c6caec2be959f.js": "/precache-manifest.acd1142a9b9fb278f24c6caec2be959f.js",
+    "precache-manifest.ec017b66e79e9e8bf1e102d8958ed1bc.js": "/precache-manifest.ec017b66e79e9e8bf1e102d8958ed1bc.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.3fd67568.chunk.css.map": "/static/css/main.3fd67568.chunk.css.map",
-    "static/js/2.0f476c3e.chunk.js.LICENSE.txt": "/static/js/2.0f476c3e.chunk.js.LICENSE.txt",
+    "static/css/main.bdfa43d4.chunk.css.map": "/static/css/main.bdfa43d4.chunk.css.map",
+    "static/js/2.2072648e.chunk.js.LICENSE.txt": "/static/js/2.2072648e.chunk.js.LICENSE.txt",
     "static/media/CERT-Android.jpg": "/static/media/CERT-Android.071f05d0.jpg",
     "static/media/CERT-UI.jpg": "/static/media/CERT-UI.6cb410c7.jpg",
     "static/media/style.scss": "/static/media/CircularStd-Book.829012af.woff",
@@ -19,6 +19,7 @@
     "static/media/akunter.png": "/static/media/akunter.ce90940b.png",
     "static/media/arwildo-icon.png": "/static/media/arwildo-icon.12ad25e9.png",
     "static/media/arwildo.png": "/static/media/arwildo.8b548cc3.png",
+    "static/media/baju-korea-murah-trendy-nyaman.png": "/static/media/baju-korea-murah-trendy-nyaman.1a64830b.png",
     "static/media/index.png": "/static/media/index.ccecaa4e.png",
     "static/media/logo.svg": "/static/media/logo.7e2e697c.svg",
     "static/media/profile-image.svg": "/static/media/profile-image.f0c8b421.svg",
@@ -29,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a1b4ee6e.js",
-    "static/js/2.0f476c3e.chunk.js",
-    "static/css/main.3fd67568.chunk.css",
-    "static/js/main.2c9d7006.chunk.js"
+    "static/js/2.2072648e.chunk.js",
+    "static/css/main.bdfa43d4.chunk.css",
+    "static/js/main.667d7e34.chunk.js"
   ]
 }
