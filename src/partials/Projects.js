@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { FaDesktop, FaArrowDown } from 'react-icons/fa';
 
 // Get projects data
 let database = require('../db.json');
@@ -20,12 +19,12 @@ class Projects extends Component {
             <div className="absolute bg-black rounded hover:bg-opacity-25 bg-opacity-0 w-full h-full top-0 flex transition duration-500 ease-in-out">
 
               <div className="m-auto grid">
-                <a href={item.live} className="shadow w-48 h-12 m-2 bg-white hover:bg-gray-200 btn-sm text-blue-500 dark:bg-gray-800 dark:text-blue-500 opacity-0 transform translate-y-3 group-hover:translate-y-0 group-hover:opacity-100 transition" target="_blank" rel="noopener noreferrer">
-                  Live Demo <FaDesktop className="ml-2" />
+                <a href={item.shopee} className="shadow w-48 h-12 m-2 bg-white hover:bg-blue-500 btn-sm hover:text-white text-blue-500 dark:bg-gray-800 dark:text-blue-500 opacity-0 transform translate-y-3 group-hover:translate-y-0 group-hover:opacity-100 transition" target="_blank" rel="noopener noreferrer">
+                  Shopee <img src={require("../images/shopee-logo.png")} className="h-10 mx-2" alt="Shopee Link" />
                 </a>
 
-                <a href={item.get} className="shadow w-48 h-12 m-2 bg-blue-500 hover:bg-blue-600 btn-sm text-white dark:bg-gray-800 dark:text-blue-500 opacity-0 transform translate-y-3 group-hover:translate-y-0 group-hover:opacity-100 transition" target="_blank" rel="noopener noreferrer">
-                  Get Code <FaArrowDown className="ml-2" />
+                <a href={item.tokopedia} className="shadow w-48 h-12 m-2 bg-white hover:bg-blue-500 btn-sm text-blue-500 hover:text-white dark:bg-gray-800 dark:text-blue-500 opacity-0 transform translate-y-3 group-hover:translate-y-0 group-hover:opacity-100 transition" target="_blank" rel="noopener noreferrer">
+                  Tokopedia <img src={require("../images/tokopedia-logo.png")} className="h-10 mx-2" alt="Tokopedia Link" />
                 </a>
               </div>
 
@@ -34,13 +33,20 @@ class Projects extends Component {
 
           <div className="p-5">
             <div className="flex">
-              <img className="w-6 h-6 mr-4" src={require("../images/" + item.icon)} alt={item.title + " Icon"} />
               <span className="font-bold text-gray-800 text-xl">{item.title}</span>
             </div>
             <div className="flex items-center justify-between mt-2">
               <div className="text-gray-600 font-light">
-                {item.desc}
+                {item.desc} Dapatkan di  
               </div>
+            </div>
+            <div class="text-center">
+              <a href={item.shopee} className="shadow w-48 h-12 m-2 bg-white hover:bg-blue-500 btn-sm hover:text-white text-blue-500 dark:bg-gray-800 dark:text-blue-500 transform translate-y-3 group-hover:translate-y-0 group-hover:opacity-100 transition" target="_blank" rel="noopener noreferrer">
+                Shopee <img src={require("../images/shopee-logo.png")} className="h-10 mx-2" alt="Shopee Link" />
+              </a>
+                <a href={item.tokopedia} className="shadow w-48 h-12 m-2 bg-white hover:bg-blue-500 btn-sm text-blue-500 hover:text-white dark:bg-gray-800 dark:text-blue-500 transform translate-y-3 group-hover:translate-y-0 group-hover:opacity-100 transition" target="_blank" rel="noopener noreferrer">
+                  Tokopedia <img src={require("../images/tokopedia-logo.png")} className="h-10 mx-2" alt="Tokopedia Link" />
+                </a>
             </div>
           </div>
 

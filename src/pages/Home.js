@@ -1,10 +1,7 @@
 import React from 'react';
 
 import Header from '../partials/Header';
-import HeroHome from '../partials/HeroHome';
-import Experience from '../partials/Experience';
 import Projects from '../partials/Projects';
-import Certifications from '../partials/Certifications';
 import Footer from '../partials/Footer';
 
 function Home() {
@@ -18,10 +15,7 @@ function Home() {
       <main className="flex-grow">
 
         {/*  Page sections */}
-        <HeroHome />
-        <Experience />
         <Projects />
-        <Certifications />
 
       </main>
 
