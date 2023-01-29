@@ -1,0 +1,4 @@
+Sitemap: https://arwildo.com/sitemap.xml
+
+User-agent: *
+Disallow:
