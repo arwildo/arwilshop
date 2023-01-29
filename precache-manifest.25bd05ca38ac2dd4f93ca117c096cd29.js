@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd171b3ab307725801b7b8b2ba47ea44",
+    "revision": "3e9742e0575423b3d1b43719fbd44a4a",
     "url": "/index.html"
   },
   {
-    "revision": "43d756eefc5b4d207e34",
+    "revision": "79740108215b6412502c",
     "url": "/static/css/main.bdfa43d4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.2072648e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43d756eefc5b4d207e34",
-    "url": "/static/js/main.667d7e34.chunk.js"
+    "revision": "79740108215b6412502c",
+    "url": "/static/js/main.e678dba3.chunk.js"
   },
   {
     "revision": "079a912c5f7f5016bd31",
@@ -56,8 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/baju-korea-murah-trendy-nyaman.1a64830b.png"
   },
   {
+    "revision": "c69c01ac27b27d6b18ec276a6e7171c4",
+    "url": "/static/media/headphone-wireless.c69c01ac.png"
+  },
+  {
     "revision": "ccecaa4e648c49f3e33b33ec5950d305",
     "url": "/static/media/index.ccecaa4e.png"
+  },
+  {
+    "revision": "f247766f272311576e258e8f9621882d",
+    "url": "/static/media/kalung-titanium.f247766f.png"
   },
   {
     "revision": "7e2e697c80d50e6d329b34eedf30318c",
@@ -82,5 +90,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6b674f52cbcc229d8c2ff2b3058515bf",
     "url": "/static/media/textul.6b674f52.png"
+  },
+  {
+    "revision": "89cb09a0f28ac10d7f20d11b74e33576",
+    "url": "/static/media/vaseline-lip-balm.89cb09a0.png"
   }
 ]);
