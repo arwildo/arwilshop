@@ -6,7 +6,7 @@ import * as serviceWorker from './serviceWorker';
 import ReactGA from 'react-ga';
 
 // Google Analytics
-ReactGA.initialize('UA-51659765-2');
+ReactGA.initialize('G-HC6ZK3R20D');
 ReactGA.pageview(window.location.pathname + window.location.search);
 
 ReactDOM.render(
